@@ -1,7 +1,17 @@
-## Hi there 👋
+## Hi, I'm Tal Erez
+
+I am currently pursuing my master of engineering in artificial intelligence at Duke University and am passionate about AI research
+
+Current Research:
+1. Developing imperceptible perturbations in music to protect artists and prevent ai mimicry
+2. Using sensor data collected from functional electrical stimulation (FES) braces to create a predictive model for early on-set multiple sclerosis
+
+## Education
+
+- Duke University | Master of Engineering in Artificial Intelligence
+- University of California, San Diego | Bachelor of Science in Applied Mathematics
 
 ## GitHub Stats
-
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,8 +22,8 @@
 ### My Portfolio: [Portfolio]
 ### My LinkedIn: [LinkedIn]
 
-[Portfolio]: http://lennoxanderson.com
-[LinkedIn]: https://www.linkedin.com/in/lennox-a/
+[Portfolio]: https://www.tal-erez.com/
+[LinkedIn]: https://www.linkedin.com/in/tal-erez/
 
 
 
