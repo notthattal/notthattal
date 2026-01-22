@@ -1,6 +1,6 @@
 ## Hi, I'm Tal Erez
 
-Machine learning engineer with a passion for creating innovative artificial intelligence technologies and a high propensity for learning, mastering advanced technical skills and working collaboratively with others.
+I'm a machine learning engineer with a passion for creating innovative artificial intelligence technologies and a high propensity for learning, mastering advanced technical skills and working collaboratively with others.
 
 Notable Research:
 1. Developing imperceptible perturbations in music to protect artists and prevent ai mimicry
