@@ -1,10 +1,11 @@
 ## Hi, I'm Tal Erez
 
-I am currently pursuing my master of engineering in artificial intelligence at Duke University and am passionate about AI research
+Machine learning engineer with a passion for creating innovative artificial intelligence technologies and a high propensity for learning, mastering advanced technical skills and working collaboratively with others.
 
-Current Research:
+Notable Research:
 1. Developing imperceptible perturbations in music to protect artists and prevent ai mimicry
 2. Using sensor data collected from functional electrical stimulation (FES) braces to create a predictive model for early on-set multiple sclerosis
+3. Developing auto-regressive coding agents
 
 ## Education
 
